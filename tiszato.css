@@ -21,7 +21,7 @@ p{
 h2{
     padding: 75px 5px 20px;
     color: rgb(28, 36, 53);
-    font-weight: bold;
+font-weight: bold;
 }
 
 h1, h2, h3, h4 {
@@ -71,7 +71,7 @@ tbody{
 .madarkep{
     width: 100px;
     vertical-align: bottom;
-   /* cursor: pointer; */
+    /* cursor: pointer; */
 }
 
 small {
